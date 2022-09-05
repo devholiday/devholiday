@@ -1,6 +1,26 @@
-Libraries: Components
-Components: Snake, Tetris
-Projects: About Components (presentation), vvork (React + firebase), Calendar & Events
+<ul>
+  <li>
+    <span>Libraries</span>
+    <ul>
+      <li>Components</li>
+    </ul>
+  </li>
+  <li>
+    <span>Games</span>
+    <ul>
+      <li>Snake</li>
+      <li>Tetris</li>
+    </ul>
+  </li>
+  <li>
+    <span>Projects</span>
+    <ul>
+      <li>vvork (React + firebase)</li>
+      <li> Calendar & Events</li>
+      <li>Design System</li>
+    </ul>
+  </li>
+</li>
 
 <!---
 devholiday/devholiday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
