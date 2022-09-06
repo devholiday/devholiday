@@ -15,7 +15,7 @@
   <li>
     <span>Projects</span>
     <ul>
-      <li>vvork (React + firebase)</li>
+      <li><a href="https://vvork-e1bd6.web.app/" target="_blank">vvork</a></li>
       <li> Calendar & Events</li>
       <li>Design System</li>
     </ul>
