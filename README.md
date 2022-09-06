@@ -8,7 +8,9 @@
   <li>
     <span>Games</span>
     <ul>
-      <li>Snake</li>
+      <li>
+        <a href="https://devholiday.github.io/snake/">Snake</a>
+      </li>
       <li>Tetris</li>
     </ul>
   </li>
