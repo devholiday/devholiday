@@ -1,6 +1,6 @@
 ## Skills and Experience
 * ⚛ React
-* 💻 html / css / JavaScript
+* 💻 HTML / CSS / JavaScript
 
 ## Others
 * Libraries
