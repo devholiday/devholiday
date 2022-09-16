@@ -2,7 +2,7 @@
 * ⚛ React
 * 💻 HTML / CSS / JavaScript
 
-## Others
+## Examples of Work
 * Libraries
   * Components
 * Games
