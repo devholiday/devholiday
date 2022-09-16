@@ -1,28 +1,17 @@
-<ul>
-  <li>
-    <span>Libraries</span>
-    <ul>
-      <li>Components</li>
-    </ul>
-  </li>
-  <li>
-    <span>Games</span>
-    <ul>
-      <li>
-        <a href="https://devholiday.github.io/snake/">Snake</a>
-      </li>
-      <li>Tetris</li>
-    </ul>
-  </li>
-  <li>
-    <span>Projects</span>
-    <ul>
-      <li><a href="https://vvork-e1bd6.web.app/">vvork</a></li>
-      <li> Calendar & Events</li>
-      <li>Design System</li>
-    </ul>
-  </li>
-</li>
+## Skills and Experience
+* ⚛ React
+* 💻 html / css / JavaScript
+
+## Others
+* Libraries
+  * Components
+* Games
+  * [Snake](https://devholiday.github.io/snake/)
+  * Tetris
+* Projects
+  * [vvork](https://vvork-e1bd6.web.app/)
+  * Calendar & Events
+  * Design System
 
 <!---
 devholiday/devholiday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
