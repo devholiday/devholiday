@@ -12,6 +12,7 @@
   * [vvork](https://vvork-e1bd6.web.app/)
   * Calendar & Events
   * Design System
+  * Solar System
 
 <!---
 devholiday/devholiday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
