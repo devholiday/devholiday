@@ -13,6 +13,8 @@
   * Calendar & Events
   * Design System
   * Solar System
+  * Serverless platform
+  * Delivery food
 
 <!---
 devholiday/devholiday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
