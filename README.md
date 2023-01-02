@@ -9,12 +9,11 @@
   * [Snake](https://devholiday.github.io/snake/)
   * Tetris
 * Projects
-  * [vvork](https://vvork-e1bd6.web.app/)
   * Calendar & Events
   * Design System
   * Solar System
   * Serverless platform
-  * Delivery food
+  * [Storefront](http://1150949-co29190.tw1.ru/foodgoes)
 
 <!---
 devholiday/devholiday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
