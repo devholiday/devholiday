@@ -13,7 +13,7 @@
   * Design System
   * Solar System
   * Serverless platform
-  * [Storefront](http://1150949-co29190.tw1.ru/foodgoes)
+  * Storefront
 
 <!---
 devholiday/devholiday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
