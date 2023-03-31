@@ -2,6 +2,9 @@
 * ⚛ React
 * 💻 HTML / CSS / JavaScript
 
+## Startups
+* [FoodGoes](https://foodgoes.com/) – Home grocery online delivery
+
 ## Examples of Work
 * Libraries
   * Components
