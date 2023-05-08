@@ -4,6 +4,7 @@
 
 ## Startups
 * [FoodGoes](https://foodgoes.com/) – Home grocery online delivery
+* [PizzaGoes](https://pizzagoes.com/) – Pizza online delivery
 
 ## Examples of Work
 * Libraries
