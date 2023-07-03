@@ -2,7 +2,7 @@
 * ⚛ React
 * 💻 HTML / CSS / JavaScript
 
-## Startups
+## Projects
 * [FoodGoes](https://foodgoes.com/) – Home grocery online delivery
 * [PizzaGoes](https://pizzagoes.com/) – Pizza online delivery
 
