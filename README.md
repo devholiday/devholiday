@@ -5,14 +5,8 @@
 ## Projects
 * [FoodGoes](https://foodgoes.com/) – Home grocery online delivery
 * [PizzaGoes](https://pizzagoes.com/) – Pizza online delivery
-
-## Examples of Work
-* Libraries
-  * ?
-* Games
-  * [Snake](https://devholiday.github.io/snake/)
-* Projects
-  * ?
+* [Periodic Table](http://81.200.152.154/periodic-table/) – Periodic Table of Elements
+* [Snake](https://devholiday.github.io/snake/) - Snake game
 
 <!---
 devholiday/devholiday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
